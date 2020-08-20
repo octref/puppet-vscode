@@ -1,5 +1,7 @@
 # [Puppet](https://www.puppet.com) Visual Studio Code Extension
 
+**Forked from https://github.com/puppetlabs/puppet-vscode to include `syntaxes/puppet.tmLanguage` so I can use it in [Shiki](https://shiki.matsu.io).**
+
 [![Version](https://vsmarketplacebadge.apphb.com/version-short/puppet.puppet-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=puppet.puppet-vscode)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/puppet.puppet-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=puppet.puppet-vscode)
 
